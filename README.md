@@ -1,3 +1,3 @@
 # sitcodex
 For codeX program only
-ont dit by abhishek
+only edit by abhishek
